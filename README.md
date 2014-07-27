@@ -7,7 +7,7 @@ It's used for "java.rmi.server.codebase"
 
 =the journey of classNotFound=
 
-It worked with browser but don't with rmiregistry ...
+It worked with browser but doesn't with rmiregistry ...
 
 First I looked up the HTTP Header from Chrome F12. 
 The HTTP response header was messed up with unreadable code.
